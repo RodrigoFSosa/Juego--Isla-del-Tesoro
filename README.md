@@ -1,4 +1,4 @@
 # Juego--Isla-del-Tesoro
-Juego en codigo ASCII basado en decisiones 
+Juego basado en decisiones desarrollado co codigo ASCII
 <br>
 Objetivo: Encontrar el tesoro y sobrevivir
